@@ -40,7 +40,7 @@ Follow the on-screen instructions to interact with the program. You'll be prompt
 
 Feel free to contribute to the development of this program by submitting pull requests or reporting any issues you encounter.
 
-## Gui running example
+## GUI running example
 
 ![Screenshot from 2024-02-10 09-43-14](https://github.com/Ziad-Algrafi/Teacher-Administrative-Tool/assets/117011801/8b75f201-4988-4864-a665-cc98a804d469)
 
