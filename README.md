@@ -1,5 +1,8 @@
 # Teacher Administrative Program
 
+![Screenshot from 2024-02-10 08-37-15](https://github.com/Ziad-Algrafi/Teacher-Administrative-Tool/assets/117011801/e8ab3cda-ac3b-4912-8a00-408460d2cd97)
+
+
 This is a JavaFX program for managing student grades and attendance with GUI.
 
 ## Prerequisites
