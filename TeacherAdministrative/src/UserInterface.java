@@ -59,7 +59,6 @@ public class UserInterface extends Application {
         dialog.showAndWait().ifPresent(numStudentsStr -> {
             int numStudents = Integer.parseInt(numStudentsStr);
 
-            // Register students
             for (int i = 1; i <= numStudents; i++) {
                 TextInputDialog idDialog = new TextInputDialog();
                 idDialog.setTitle("Student ID");
