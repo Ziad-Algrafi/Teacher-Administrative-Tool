@@ -60,6 +60,9 @@ Feel free to contribute to the development of this program by submitting pull re
 
 ![Screenshot from 2024-02-10 09-45-48](https://github.com/Ziad-Algrafi/Teacher-Administrative-Tool/assets/117011801/1e29a709-d652-498d-89c4-b52467c74db3)
 
+## and so on until you finish to see the report 
+![Screenshot from 2024-02-10 09-50-15](https://github.com/Ziad-Algrafi/Teacher-Administrative-Tool/assets/117011801/ddfd0386-71e9-4d13-8ed7-1952700f248e)
+
 
 
 
